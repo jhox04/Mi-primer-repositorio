@@ -1,1 +1,5 @@
+id_venta,fecha,monto,producto
+1,2024-01-10,150.00,Teclado
+2,2024-01-11,300.50,Monitor
+3,2024-01-12,89.90,Mouse
 
