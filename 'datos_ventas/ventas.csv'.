@@ -1,4 +1,3 @@
-# Datos de ventas
 id_cliente,nombre,correo,ciudad
 1,Ana Torres,ana@example.com,Quito
 2,Carlos Pérez,carlos@example.com,Guayaquil
